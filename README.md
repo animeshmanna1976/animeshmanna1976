@@ -7,7 +7,7 @@
 💬 Ask me about frontend basics, GitHub, and my PDF project
 
 ## Visitor Count
-![Visitor Count]((https://count.getloli.com/@animeshmanna1976?name=animeshmanna1976&theme=booru-ve&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto))
+![Visitor Count](https://count.getloli.com/get/@animeshmanna1976?theme=rule34)
 
 
 ## 🌐 Socials:
