@@ -6,6 +6,9 @@
 🤝 I’m looking to collaborate on open-source projects  
 💬 Ask me about frontend basics, GitHub, and my PDF project
 
+## Visitor Count
+![Visitor Count](https://count.getloli.com/get/@animeshmanna1976?theme=rule34)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/animesh_1976) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/animesh-manna-299a23354) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Animeshmanna76) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:animeshmanna1976@gmail.com) 
