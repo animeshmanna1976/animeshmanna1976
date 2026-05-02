@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building a PDF annotation tool with RAG and semantic search to enable intelligent document interaction  
+🔭 I’m currently building a PDF annotation tool with RAG and semantic search to enable intelligent document interaction.
 🎓 2nd Year IT Student at Heritage Institute of Technology  
 🌱 I’m currently learning LangChain  
 🤖 Gen AI enthusiast  
