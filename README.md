@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 2nd Year IT Student at Heritage Institute of Technology  
+🎓 2nd Year IT Student at Heritage Institute of Technology
 🌱 I’m currently learning LangChain  
 🤖 Gen AI enthusiast  
 🤝 I’m looking to collaborate on open-source projects  
